@@ -8,6 +8,7 @@
 - [3-sum](https://leetcode.com/problems/3sum/description/)
 - [move-zeros](https://leetcode.com/problems/move-zeroes/)
 - [sort-colors](https://leetcode.com/problems/sort-colors/description/)
+- [4-sum](https://leetcode.com/problems/4sum/description/)
 ## Arrays and Hashing
 - [valid-anagram](https://leetcode.com/problems/valid-anagram/)
 - [contains-duplicate](https://leetcode.com/problems/contains-duplicate/)
