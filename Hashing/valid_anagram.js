@@ -22,4 +22,5 @@ var isAnagram = function (s, t) {
         }
     }
     return Object.keys(mp).length == 0;
+    
 };
