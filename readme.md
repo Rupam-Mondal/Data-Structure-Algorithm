@@ -21,3 +21,4 @@
 ## sorting
 - Implement bubble sort using recursion without any single loop
 - Implement selection sort using recursion
+- [Merge two sorted array](https://leetcode.com/problems/merge-sorted-array/description/)
