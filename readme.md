@@ -1,4 +1,6 @@
 ### DSA Sheet
+## Time complexity cheat sheet
+- [Link](https://www.bigocheatsheet.com/)
 
 ## Arrays and two pointers
 - [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -16,5 +18,3 @@
 - [Two sum 2 use hash-map](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 ## General questions
 - [multiply-string](https://leetcode.com/problems/multiply-strings/description/)
-## Time complexity cheat sheet
-- [Link](https://www.bigocheatsheet.com/)
