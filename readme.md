@@ -18,3 +18,6 @@
 - [Two sum 2 use hash-map](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 ## General questions
 - [multiply-string](https://leetcode.com/problems/multiply-strings/description/)
+## sorting
+- Implement bubble sort using recursion without any single loop
+- Implement selection sort using recursion
