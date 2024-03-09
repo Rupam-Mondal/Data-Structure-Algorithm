@@ -29,5 +29,5 @@
 - [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 - [Make array 0 by subtracting equal amount ✅](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 
-## search
-- [Binary search]
+## searching
+- Binary search
