@@ -1,0 +1,9 @@
+1. You are given a array you have to remove all element in minimum cost
+cost --> to remove any element cost is number of element is present in array
+[4 , 1 , 6];
+to remove 4 the cost is 11.
+
+2. You are given a array of size n with all integer values
+apart you are given a value p(present in the array)  which is also integer
+you need to re arrange the array such that all the element less than p goes
+to the left and remaining to the right (base of quick sort)
