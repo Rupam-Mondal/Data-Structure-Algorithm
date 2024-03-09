@@ -18,7 +18,7 @@
 - [contains-duplicate ✅](https://leetcode.com/problems/contains-duplicate/)
 - [Two sum 2 use hash-map ✅](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
 - [min cost (only use array nothing else needed) ✅](./1.Array/extra_question.txt)
-- [Implement quick sort(randomized)]
+- Implement quick sort(randomized)
 ## General questions
 - [multiply-string](https://leetcode.com/problems/multiply-strings/description/)
 ## sorting
@@ -31,3 +31,5 @@
 
 ## searching
 - Binary search
+- [first greater element in array w.r.t a target ✅](./5.searching/extra_q.txt)
+- [first and last pos](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)

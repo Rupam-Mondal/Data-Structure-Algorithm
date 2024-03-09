@@ -1,0 +1,5 @@
+1.You are given a sorted array and a target is given 
+so you have to find the first val which is 
+>= x.
+
+2. follow up question just found the element >x.. Just a little change needed
