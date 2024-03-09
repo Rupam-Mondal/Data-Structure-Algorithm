@@ -30,6 +30,6 @@
 - [Make array 0 by subtracting equal amount ✅](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
 
 ## searching
-- Binary search
+- Binary search ✅
 - [first greater element in array w.r.t a target ✅](./5.searching/extra_q.txt)
 - [first and last position ✅](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
