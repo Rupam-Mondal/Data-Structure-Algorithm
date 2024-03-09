@@ -32,4 +32,4 @@
 ## searching
 - Binary search
 - [first greater element in array w.r.t a target ✅](./5.searching/extra_q.txt)
-- [first and last pos](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
+- [first and last position ✅](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
