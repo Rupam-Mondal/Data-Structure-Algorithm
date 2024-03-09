@@ -17,6 +17,7 @@
 - [valid-anagram ✅](https://leetcode.com/problems/valid-anagram/)
 - [contains-duplicate ✅](https://leetcode.com/problems/contains-duplicate/)
 - [Two sum 2 use hash-map ✅](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)
+- [min cost (only use array nothing else needed)](./1.Array/extra_question.txt)
 ## General questions
 - [multiply-string](https://leetcode.com/problems/multiply-strings/description/)
 ## sorting
