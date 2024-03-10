@@ -22,8 +22,8 @@
 ## General questions
 - [multiply-string](https://leetcode.com/problems/multiply-strings/description/)
 ## sorting
-- Implement bubble sort using recursion without any single loop
-- Implement selection sort using recursion
+- Implement bubble sort using recursion without any single loop ✅
+- Implement selection sort using recursion ✅
 - [Merge two sorted array ✅](https://leetcode.com/problems/merge-sorted-array/description/)
 - [Inversion count ✅](https://www.spoj.com/problems/INVCNT/)
 - [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
