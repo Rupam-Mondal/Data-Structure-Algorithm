@@ -36,7 +36,7 @@
 - Binary search ✅
 - [first greater element in array w.r.t a target ✅](./5.searching/extra_q.txt)
 - [first and last position ✅](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
-- [Given an sorted array A of size N. Find number of elements which are less than or equal to B.](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
+- [Given an sorted array A of size N. Find number of elements which are less than or equal to B. ✅](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
 - [Search 2d mat ✅](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Search insert position ✅](https://leetcode.com/problems/search-insert-position/)
 - [Guess number higher or lower ✅](https://leetcode.com/problems/guess-number-higher-or-lower/)
