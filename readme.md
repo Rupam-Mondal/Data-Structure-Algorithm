@@ -28,6 +28,9 @@
 - [Inversion count ✅](https://www.spoj.com/problems/INVCNT/)
 - [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/description/)
 - [Make array 0 by subtracting equal amount ✅](https://leetcode.com/problems/make-array-zero-by-subtracting-equal-amounts/description/)
+- [Intersection of two arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)
+- [Intersection of two arrays 2](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)
+- [Numbers of paires satisfying](https://leetcode.com/problems/number-of-pairs-satisfying-inequality/description/)
 
 ## searching
 - Binary search ✅
@@ -39,3 +42,7 @@
 - [Guess number higher or lower ✅](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [Arrange coins](https://leetcode.com/problems/arranging-coins/)
 - [perfect square✅](https://leetcode.com/problems/valid-perfect-square/)
+- [sqrt](https://leetcode.com/problems/sqrtx/description/)
+- [single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
+- [first missing positive](https://leetcode.com/problems/first-missing-positive/description/)
+- [count ocurrance](https://www.interviewbit.com/problems/count-element-occurence/)
