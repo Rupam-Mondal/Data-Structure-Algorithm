@@ -36,4 +36,6 @@
 - [Given an sorted array A of size N. Find number of elements which are less than or equal to B.](https://www.interviewbit.com/problems/smaller-or-equal-elements/)
 - [Search 2d mat ✅](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Search insert position](https://leetcode.com/problems/search-insert-position/)
-- [Guess number higher or lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [Guess number higher or lower ✅](https://leetcode.com/problems/guess-number-higher-or-lower/)
+- [Arrange coins](https://leetcode.com/problems/arranging-coins/)
+- [perfect square✅](https://leetcode.com/problems/valid-perfect-square/)
