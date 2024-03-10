@@ -40,7 +40,7 @@
 - [Search 2d mat ✅](https://leetcode.com/problems/search-a-2d-matrix/description/)
 - [Search insert position ✅](https://leetcode.com/problems/search-insert-position/)
 - [Guess number higher or lower ✅](https://leetcode.com/problems/guess-number-higher-or-lower/)
-- [Arrange coins](https://leetcode.com/problems/arranging-coins/)
+- [Arrange coins ✅](https://leetcode.com/problems/arranging-coins/)
 - [perfect square✅](https://leetcode.com/problems/valid-perfect-square/)
 - [sqrt](https://leetcode.com/problems/sqrtx/description/)
 - [single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
