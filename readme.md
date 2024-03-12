@@ -42,7 +42,7 @@
 - [Guess number higher or lower ✅](https://leetcode.com/problems/guess-number-higher-or-lower/)
 - [Arrange coins ✅](https://leetcode.com/problems/arranging-coins/)
 - [perfect square✅](https://leetcode.com/problems/valid-perfect-square/)
-- [sqrt](https://leetcode.com/problems/sqrtx/description/)
+- [sqrt✅](https://leetcode.com/problems/sqrtx/description/)
 - [single element in sorted array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 - [first missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 - [count ocurrance✅](https://www.interviewbit.com/problems/count-element-occurence/)
