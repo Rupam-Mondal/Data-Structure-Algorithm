@@ -46,3 +46,8 @@
 - [single element in sorted array✅](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 - [first missing positive](https://leetcode.com/problems/first-missing-positive/description/)
 - [count ocurrance✅](https://www.interviewbit.com/problems/count-element-occurence/)
+- [peak element✅](https://leetcode.com/problems/find-peak-element/description/)
+- [search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
+- [Find mid in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [peak in mountain array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
+- [search in sorted  array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
