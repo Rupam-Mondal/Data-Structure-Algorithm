@@ -53,3 +53,4 @@
 - [search in sorted  array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Koko eating banana](https://leetcode.com/problems/koko-eating-bananas/)
 - [successfull pair of spell and potions](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
+- [capacity of ship](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
