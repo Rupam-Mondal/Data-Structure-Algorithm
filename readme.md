@@ -55,3 +55,19 @@
 - [successfull pair of spell and potions✅](https://leetcode.com/problems/successful-pairs-of-spells-and-potions/)
 - [capacity of ship](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/)
 - [Minimize max diff of pair](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
+- [split array largest sum hint :- same as ship container prob](https://leetcode.com/problems/split-array-largest-sum/description/)
+- [Median of two sorted arrays✅](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+- [Book Allocation](https://www.interviewbit.com/problems/allocate-books/)
+- [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
+- [Red Zone](https://www.interviewbit.com/problems/red-zone/)
+
+
+# CP Practice problems:
+## Searching
+- [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
+- [Parata](https://www.spoj.com/problems/PRATA/)
+- [ABCDEF](https://www.spoj.com/problems/ABCDEF/)
+- [Not a triangle](https://www.spoj.com/problems/NOTATRI)
+- [Kefa and Company](https://codeforces.com/contest/580/problem/B)
+- [Favourite question - Subsums](https://www.spoj.com/problems/SUBSUMS/)
+- [Firecrackers](https://codeforces.com/problemset/problem/1468/D)

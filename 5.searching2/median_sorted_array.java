@@ -1,4 +1,4 @@
-class Solution {
+public class median_sorted_array {
     public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
         int i = 0, j = 0, k = 0;
         int[] res = new int[m + n];
@@ -21,15 +21,19 @@ class Solution {
         return res;
     }
 
-    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+    public static double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] arr = new int[nums1.length + nums2.length];
         arr = merge(nums1, nums1.length, nums2, nums2.length);
         double sum = 0;
-        int n = arr.length;
-        if (n % 2 == 0) {
-            double median = (double) (arr[n / 2] + arr[n / 2 - 1]) / 2.0;
-            return median;
+        if (arr.length % 2 == 0) {
+            sum = (arr[arr.length / 2] + arr[(arr.length / 2) - 1]) / 2;
+            return sum;
         }
-        return arr[(arr.length - 1) / 2];
+        return arr[(arr.length + 1) / 2];
+    }
+    public static void main(String[] args) {
+        int[] nums1 = {1,3}; 
+        int[] nums2 = {2};
+        findMedianSortedArrays(nums1, nums2);
     }
 }
