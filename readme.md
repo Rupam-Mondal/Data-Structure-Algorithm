@@ -57,7 +57,7 @@
 - [Minimize max diff of pair✅](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/)
 - [split array largest sum hint :- same as ship container prob✅](https://leetcode.com/problems/split-array-largest-sum/description/)
 - [Median of two sorted arrays✅](https://leetcode.com/problems/median-of-two-sorted-arrays/)
-- [Book Allocation](https://www.interviewbit.com/problems/allocate-books/)
+- [Book Allocation✅](https://www.interviewbit.com/problems/allocate-books/)
 - [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/)
 
