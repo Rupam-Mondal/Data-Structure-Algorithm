@@ -1,3 +1,5 @@
+import java.util.Arrays;
+
 class min_max_pair{
     public static boolean possible(int[] nums , int mid , int p){
         int count = 0;
