@@ -1,4 +1,4 @@
-class Solution {
+class merge_two_sorted_array2 {
     public static int[] merge(int[] nums1, int m, int[] nums2, int n) {
         int i = 0, j = 0, k = 0;
         int[] res = new int[m + n];
