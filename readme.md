@@ -48,7 +48,7 @@
 - [count ocurrance✅](https://www.interviewbit.com/problems/count-element-occurence/)
 - [peak element✅](https://leetcode.com/problems/find-peak-element/description/)
 - [search in rotated sorted array✅](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)
-- [Find min in rotated sorted array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
+- [Find min in rotated sorted array✅](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)
 - [peak in mountain array ✅](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/)
 - [search in rotated sorted  array 2](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [Koko eating banana✅](https://leetcode.com/problems/koko-eating-bananas/)
