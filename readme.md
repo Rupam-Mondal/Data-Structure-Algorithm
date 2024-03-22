@@ -13,6 +13,7 @@
 - [4-sum ✅](https://leetcode.com/problems/4sum/description/)
 - [Reverse-word-in-string✅](https://leetcode.com/problems/reverse-words-in-a-string/description/)
 - [Take K Character](https://leetcode.com/problems/take-k-of-each-character-from-left-and-right/description/)
+- [Minimize max pair sum✅](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/)
 ## Arrays and Hashing
 - [valid-anagram ✅](https://leetcode.com/problems/valid-anagram/)
 - [contains-duplicate ✅](https://leetcode.com/problems/contains-duplicate/)
