@@ -62,7 +62,9 @@
 - [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/)
 ## Dynamic programming
-- [Fibonacci number-use dp](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
+- [Fibonacci number-use dp(recursion)✅](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
+- [Fibonacci number-use dp(Iteration)✅](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
+- [Friends pairing problem](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625)
 
 # CP Practice problems:
 ## Searching

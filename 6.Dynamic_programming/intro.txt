@@ -1,0 +1,15 @@
+1--> You are given a number n and find nth fibonacci
+
+f(n) = f(n - 1) + f(n - 2);
+this recurrence relaton has a problem.It actually repeats subproblem many times
+this is also known as repeation of sub problem
+
+so the solution is dynamic programming we have to memorise the smaller problem
+solution
+
+Identification of dp:-
+1.repeating sub problem
+2.Optimal substructure(If you can get answer of bigger problem then 
+                        if are able to find ans of bigger problem)
+3.most of cases you will get counting problems and also maximize and minimize
+problem.
