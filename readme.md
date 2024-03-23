@@ -61,7 +61,8 @@
 - [Book Allocation✅](https://www.interviewbit.com/problems/allocate-books/)
 - [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/)
-
+## Dynamic programming
+- [Fibonacci number-use dp](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
 
 # CP Practice problems:
 ## Searching
