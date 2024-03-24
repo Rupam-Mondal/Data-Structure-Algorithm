@@ -1,4 +1,4 @@
-class Solution {
+class maximum_weight_ship {
     public int shipWithinDays(int[] weights, int D) {
         int totalWeights = 0;
         int maxWeight = -1;
