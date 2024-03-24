@@ -66,6 +66,7 @@
 - [Fibonacci number-use dp(Iteration)✅](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
 - [Friends pairing problem✅](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625)
 - [Friends pairing problem - use bottom up dp✅](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625)
+- [Coin change](https://leetcode.com/problems/coin-change/description/)
 
 # CP Practice problems:
 ## Searching
