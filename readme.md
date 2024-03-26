@@ -69,7 +69,7 @@
 - [Coin change✅](https://leetcode.com/problems/coin-change/description/)
 - [perfect square✅](https://leetcode.com/problems/perfect-squares/)
 - [Min cost for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
-- [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Climbing stairs✅](https://leetcode.com/problems/climbing-stairs/)
 - [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
