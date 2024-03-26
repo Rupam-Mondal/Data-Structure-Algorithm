@@ -18,7 +18,6 @@ public class FriendsPairing {
     }
 
     public static int numberOfWays(int n) {
-        // Write your code here.
         dp = new long[10005];
         Arrays.fill(dp, -1);
         return (int) f(n);
