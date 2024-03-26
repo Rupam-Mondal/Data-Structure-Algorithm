@@ -66,9 +66,14 @@
 - [Fibonacci number-use dp(Iteration)✅](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
 - [Friends pairing problem✅](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625)
 - [Friends pairing problem - use bottom up dp✅](https://www.codingninjas.com/studio/problems/friends-pairing-problem_1214625)
-- [Coin change](https://leetcode.com/problems/coin-change/description/)
-- [perfect square](https://leetcode.com/problems/perfect-squares/)
+- [Coin change✅](https://leetcode.com/problems/coin-change/description/)
+- [perfect square✅](https://leetcode.com/problems/perfect-squares/)
 - [Min cost for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
+- [Climbing stairs](https://leetcode.com/problems/climbing-stairs/)
+- [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [House Robber](https://leetcode.com/problems/house-robber/)
+- [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
+- [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 # CP Practice problems:
 ## Searching
