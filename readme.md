@@ -73,7 +73,7 @@
 - [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
-- [Nth tribonacci](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [Nth tribonacci✅](https://leetcode.com/problems/n-th-tribonacci-number/)
 
 # CP Practice problems:
 ## Searching
