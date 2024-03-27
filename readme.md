@@ -60,6 +60,7 @@
 - [Median of two sorted arrays✅](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 - [Book Allocation✅](https://www.interviewbit.com/problems/allocate-books/)
 - [Painter Partition](https://www.interviewbit.com/problems/painters-partition-problem/)
+- [minimum number of days to make m bouquets✅](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/)
 - [Red Zone](https://www.interviewbit.com/problems/red-zone/)
 ## Dynamic programming
 - [Fibonacci number-use dp(recursion)✅](https://www.geeksforgeeks.org/problems/fibonacci-series-up-to-nth-term/1/)
