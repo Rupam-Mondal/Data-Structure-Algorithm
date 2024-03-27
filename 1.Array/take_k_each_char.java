@@ -39,5 +39,6 @@ class take_k_each_char {
     }
     public static void main(String[] args) {
         int ans = takeCharacters(("aabbbcccaaa"), 2);
+        System.out.println(ans);
     }
 }

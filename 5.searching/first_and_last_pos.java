@@ -36,7 +36,7 @@ public class first_and_last_pos{
     public static void main(String[] args) {
         int[] arr = {2 , 3 , 5,7,7,8,8,10};
         int target = 8;
-        int[] arr1 = searchRange(arr, 8);
+        int[] arr1 = searchRange(arr, target);
         for(int i = 0 ; i < arr1.length ; i++){
             System.out.println(" "+arr1[i]);
         }

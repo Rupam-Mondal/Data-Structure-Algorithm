@@ -24,7 +24,6 @@ class merge_two_sorted_array2 {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] arr = new int[nums1.length + nums2.length];
         arr = merge(nums1, nums1.length, nums2, nums2.length);
-        double sum = 0;
         int n = arr.length;
         if (n % 2 == 0) {
             double median = (double) (arr[n / 2] + arr[n / 2 - 1]) / 2.0;

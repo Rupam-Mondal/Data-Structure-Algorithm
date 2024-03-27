@@ -40,6 +40,7 @@ public class inverson_count{
     public static void main(String[] args) {
         int[] arr = { 5, 4, 3, 2, 1};
         int[] res1 = mergeSort(arr, 0, arr.length - 1);
+        res1.toString();
         System.out.println(count);
     }
 }
