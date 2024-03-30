@@ -77,6 +77,10 @@
 - [Nth tribonacci✅](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Triangle✅](https://leetcode.com/problems/triangle/description/)
 - [Combination sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
+- [Number of longest subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
+- [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
+- [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+- [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 
 # CP Practice problems:
 ## Searching
