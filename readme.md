@@ -75,6 +75,8 @@
 - [House Robber](https://leetcode.com/problems/house-robber/)
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci✅](https://leetcode.com/problems/n-th-tribonacci-number/)
+- [Triangle✅](https://leetcode.com/problems/triangle/description/)
+- [Combination sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 
 # CP Practice problems:
 ## Searching
