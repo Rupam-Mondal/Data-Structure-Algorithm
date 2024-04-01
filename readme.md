@@ -72,7 +72,8 @@
 - [Min cost for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [Climbing stairs✅](https://leetcode.com/problems/climbing-stairs/)
 - [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
-- [House Robber](https://leetcode.com/problems/house-robber/)
+- [House Robber✅](https://leetcode.com/problems/house-robber/)
+- [sum of adjacent element - Hint :- previous question and this are same✅]
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
 - [Nth tribonacci✅](https://leetcode.com/problems/n-th-tribonacci-number/)
 - [Triangle✅](https://leetcode.com/problems/triangle/description/)
