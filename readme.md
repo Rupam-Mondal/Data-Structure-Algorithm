@@ -71,7 +71,7 @@
 - [perfect square✅](https://leetcode.com/problems/perfect-squares/)
 - [Min cost for tickets](https://leetcode.com/problems/minimum-cost-for-tickets/description/)
 - [Climbing stairs✅](https://leetcode.com/problems/climbing-stairs/)
-- [Min Cost climbing stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)
+- [Min Cost climbing stairs✅](https://leetcode.com/problems/min-cost-climbing-stairs/)
 - [House Robber✅](https://leetcode.com/problems/house-robber/)
 - sum of adjacent element - Hint :- previous question and this are same✅
 - [Delete and Earn](https://leetcode.com/problems/delete-and-earn/description/)
