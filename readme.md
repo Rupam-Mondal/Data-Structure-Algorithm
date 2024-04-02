@@ -80,7 +80,7 @@
 - [Combination sum IV](https://leetcode.com/problems/combination-sum-iv/description/)
 - [Number of longest subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence/description/)
 - [Count LIS](https://leetcode.com/problems/number-of-longest-increasing-subsequence/)
-- [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
+- [Arithmetic Slices✅](https://leetcode.com/problems/arithmetic-slices/)
 - [Arithmetic Slices 2](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
 - [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
 - [Min Path Sum](https://leetcode.com/problems/minimum-path-sum/)
