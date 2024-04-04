@@ -87,8 +87,8 @@
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Unique Paths✅](https://leetcode.com/problems/unique-paths/)
 - [Unique Paths 2✅](https://leetcode.com/problems/unique-paths-ii/)
-- [Paint House](https://leetcode.com/problems/paint-house/)
-- [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
+- [Paint House](./6.Dynamic_programming/paint_house.txt)
+- [Paint House 2](./6.Dynamic_programming/paint_house_2.txt)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
