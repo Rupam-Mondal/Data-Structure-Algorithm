@@ -85,7 +85,7 @@
 - [Arithmetic Slices Try to optimise space complexity in BU](https://leetcode.com/problems/arithmetic-slices/)
 - [Min Path Sum✅](https://leetcode.com/problems/minimum-path-sum/)
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
-- [Unique Paths](https://leetcode.com/problems/unique-paths/)
+- [Unique Paths✅](https://leetcode.com/problems/unique-paths/)
 - [Unique Paths 2](https://leetcode.com/problems/unique-paths-ii/)
 - [Paint House](https://leetcode.com/problems/paint-house/)
 - [Paint House 2](https://leetcode.com/problems/paint-house-ii/)
