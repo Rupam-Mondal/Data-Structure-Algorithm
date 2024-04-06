@@ -87,8 +87,10 @@
 - [Edit Distance](https://leetcode.com/problems/edit-distance/)
 - [Unique Paths✅](https://leetcode.com/problems/unique-paths/)
 - [Unique Paths 2✅](https://leetcode.com/problems/unique-paths-ii/)
-- [Paint House](./6.Dynamic_programming/paint_house.txt)
-- [Paint House 2](./6.Dynamic_programming/paint_house_2.txt)
+- [Paint House](https://www.lintcode.com/problem/515/)
+- [Paint House 2](https://www.lintcode.com/problem/516/)
+- [longest common subsequence✅](https://leetcode.com/problems/longest-common-subsequence/description/)
+- [longest palindrom subsequence✅](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
