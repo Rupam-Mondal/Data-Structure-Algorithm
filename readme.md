@@ -91,6 +91,10 @@
 - [Paint House 2](https://www.lintcode.com/problem/516/)
 - [longest common subsequence✅](https://leetcode.com/problems/longest-common-subsequence/description/)
 - [longest palindrom subsequence✅](https://leetcode.com/problems/longest-palindromic-subsequence/description/)
+- [Best time to buy and sell stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/description/)
+- [Best time to buy and sell stock III Hint :- first solve previous one](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
+- [Best time to buy and sell stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+- [Best time to buy and sell stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
