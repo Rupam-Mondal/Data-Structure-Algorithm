@@ -95,6 +95,9 @@
 - [Best time to buy and sell stock III Hint :- first solve previous one](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/description/)
 - [Best time to buy and sell stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
 - [Best time to buy and sell stock I](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/)
+
+## LinkedList
+- [Design LinkedList✅](https://leetcode.com/problems/design-linked-list/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
