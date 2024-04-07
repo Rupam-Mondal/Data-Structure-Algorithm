@@ -98,6 +98,10 @@
 
 ## LinkedList
 - [Design LinkedList✅](https://leetcode.com/problems/design-linked-list/description/)
+- Add elemenets in begin and end✅
+- Delete elements✅
+- Besic Linkedlist construction✅
+- [Middle of LinkedList](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
