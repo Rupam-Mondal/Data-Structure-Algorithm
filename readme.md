@@ -103,6 +103,8 @@
 - Basic Linkedlist construction✅
 - [Middle of LinkedList✅](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 - [Delete duplicate in a LinkedList✅](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
+- [circular LinkedList✅](https://leetcode.com/problems/linked-list-cycle/)
+- [Circular LinkedList 2✅](https://leetcode.com/problems/linked-list-cycle-ii/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
