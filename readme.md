@@ -105,6 +105,8 @@
 - [Delete duplicate in a LinkedList✅](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [circular LinkedList✅](https://leetcode.com/problems/linked-list-cycle/)
 - [Circular LinkedList 2✅](https://leetcode.com/problems/linked-list-cycle-ii/)
+- [Delete node✅](https://leetcode.com/problems/delete-node-in-a-linked-list/)
+- [Delete node of given values✅](https://leetcode.com/problems/remove-linked-list-elements/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
