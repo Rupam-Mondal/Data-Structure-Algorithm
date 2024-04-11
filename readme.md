@@ -102,6 +102,7 @@
 - Delete elements✅
 - Basic Linkedlist construction✅
 - [Middle of LinkedList✅](https://leetcode.com/problems/middle-of-the-linked-list/description/)
+- [Delete duplicate in a LinkedList✅](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
