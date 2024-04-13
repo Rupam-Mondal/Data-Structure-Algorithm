@@ -101,12 +101,14 @@
 - Add elemenets in begin and end✅
 - Delete elements✅
 - Basic Linkedlist construction✅
+- [Design Browser History](https://leetcode.com/problems/design-browser-history/description/)
 - [Middle of LinkedList✅](https://leetcode.com/problems/middle-of-the-linked-list/description/)
 - [Delete duplicate in a LinkedList✅](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 - [circular LinkedList✅](https://leetcode.com/problems/linked-list-cycle/)
 - [Circular LinkedList 2✅](https://leetcode.com/problems/linked-list-cycle-ii/)
 - [Delete node✅](https://leetcode.com/problems/delete-node-in-a-linked-list/)
 - [Delete node of given values✅](https://leetcode.com/problems/remove-linked-list-elements/)
+- [Remove nth node from the end of the linkedlist✅](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [Two Sum✅](https://leetcode.com/problems/add-two-numbers/)
 # CP Practice problems:
 ## Searching
