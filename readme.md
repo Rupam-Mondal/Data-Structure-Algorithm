@@ -113,6 +113,12 @@
 - [Partition list](https://leetcode.com/problems/partition-list/)
 - [Maximum twin sum of a LinkedList✅](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 - [Two Sum✅](https://leetcode.com/problems/add-two-numbers/)
+- [Reverse a ll](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse nodes in group of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
+- [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+- [Intersection of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Insertion sort LL](https://leetcode.com/problems/insertion-sort-list/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
