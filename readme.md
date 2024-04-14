@@ -111,7 +111,7 @@
 - [Remove nth node from the end of the linkedlist✅](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
 - [swaping node in LinkedList✅](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/)
 - [Partition list](https://leetcode.com/problems/partition-list/)
-- [Maximum twin sum of a LinkedList](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
+- [Maximum twin sum of a LinkedList✅](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/description/)
 - [Two Sum✅](https://leetcode.com/problems/add-two-numbers/)
 # CP Practice problems:
 ## Searching
