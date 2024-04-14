@@ -119,6 +119,10 @@
 - [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Intersection of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Insertion sort LL](https://leetcode.com/problems/insertion-sort-list/)
+## Stack
+- [Design a stack✅](./8.stack/stack.js)
+- [Remove stars from string✅](https://leetcode.com/problems/removing-stars-from-a-string/)
+- [Asteroid collision](https://leetcode.com/problems/asteroid-collision/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
