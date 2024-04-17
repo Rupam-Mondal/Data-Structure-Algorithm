@@ -117,8 +117,8 @@
 - [Reverse nodes in group of k](https://leetcode.com/problems/reverse-nodes-in-k-group/)
 - [Copy list with random pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)
 - [Merge two sorted lists✅](https://leetcode.com/problems/merge-two-sorted-lists/)
-- [Intersection of LL](https://leetcode.com/problems/intersection-of-two-linked-lists/)
-- [Insertion sort LL](https://leetcode.com/problems/insertion-sort-list/)
+- [Intersection of LL✅](https://leetcode.com/problems/intersection-of-two-linked-lists/)
+- [Insertion sort LL✅](https://leetcode.com/problems/insertion-sort-list/)
 ## Stack
 - [Design a stack✅](./8.stack/stack.js)
 - [Remove stars from string✅](https://leetcode.com/problems/removing-stars-from-a-string/)
