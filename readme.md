@@ -123,6 +123,9 @@
 - [Design a stack✅](./8.stack/stack.js)
 - [Remove stars from string✅](https://leetcode.com/problems/removing-stars-from-a-string/)
 - [Asteroid collision](https://leetcode.com/problems/asteroid-collision/description/)
+- [Design maximum stack](https://leetcode.com/problems/maximum-frequency-stack/)
+- [Valid pranthesis✅](https://leetcode.com/problems/valid-parentheses/)
+- [Build an array with stack operation✅](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
