@@ -126,6 +126,8 @@
 - [Design maximum stack](https://leetcode.com/problems/maximum-frequency-stack/)
 - [Valid pranthesis✅](https://leetcode.com/problems/valid-parentheses/)
 - [Build an array with stack operation✅](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
+## Queue
+- [Queue using stack✅](https://leetcode.com/problems/implement-queue-using-stacks/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
