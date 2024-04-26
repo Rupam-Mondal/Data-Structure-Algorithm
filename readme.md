@@ -1,6 +1,8 @@
 ### DSA Sheet
 ## Time complexity cheat sheet
 - [Link](https://www.bigocheatsheet.com/)
+## SDE sheet
+- [Link](https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/)
 
 ## Arrays and two pointers
 - [Two Sum ✅](https://leetcode.com/problems/two-sum/)
@@ -127,7 +129,13 @@
 - [Valid pranthesis✅](https://leetcode.com/problems/valid-parentheses/)
 - [Build an array with stack operation✅](https://leetcode.com/problems/build-an-array-with-stack-operations/description/)
 ## Queue
-- [Queue using stack✅](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Implement queue using LL✅]()
+- [Design middle front back queue](https://leetcode.com/problems/design-front-middle-back-queue/)
+- [QUeue using stacks - Enqueue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Queue using stacks - Dequeue efficient](https://leetcode.com/problems/implement-queue-using-stacks/)
+- [Design circular queue](https://leetcode.com/problems/design-circular-queue/)
+- [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
+
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
