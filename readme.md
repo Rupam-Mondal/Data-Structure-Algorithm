@@ -136,6 +136,9 @@
 - [Design circular queue](https://leetcode.com/problems/design-circular-queue/)
 - [Gas station - uses queue concept but might not actually use a queue](https://leetcode.com/problems/gas-station/)
 
+## Dequeue
+- [Identify first unique character✅](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1242989861/)
+- [Sliding window problem](https://leetcode.com/problems/sliding-window-maximum/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
