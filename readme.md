@@ -139,6 +139,7 @@
 ## Dequeue
 - [Identify first unique character✅](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1242989861/)
 - [Sliding window problem](https://leetcode.com/problems/sliding-window-maximum/description/)
+- [LRU cache](https://leetcode.com/problems/lru-cache/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
