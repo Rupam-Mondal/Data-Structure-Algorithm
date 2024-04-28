@@ -121,6 +121,7 @@
 - [Merge two sorted lists✅](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [Intersection of LL✅](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 - [Insertion sort LL✅](https://leetcode.com/problems/insertion-sort-list/)
+- [Delete middle of linkedlist✅](https://www.geeksforgeeks.org/problems/delete-middle-of-linked-list/1)
 ## Stack
 - [Design a stack✅](./8.stack/stack.js)
 - [Remove stars from string✅](https://leetcode.com/problems/removing-stars-from-a-string/)
