@@ -143,7 +143,7 @@
 - [LRU cache](https://leetcode.com/problems/lru-cache/description/)
 
 ## Binary trees
-- [Level order levelwise](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Level order levelwise✅](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 - [Average of levels](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 - [Reverse level ordeer](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
