@@ -141,6 +141,14 @@
 - [Identify first unique character✅](https://leetcode.com/problems/first-unique-character-in-a-string/submissions/1242989861/)
 - [Sliding window problem](https://leetcode.com/problems/sliding-window-maximum/description/)
 - [LRU cache](https://leetcode.com/problems/lru-cache/description/)
+
+## Binary trees
+- [Level order levelwise](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [Average of levels](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+- [Reverse level ordeer](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
+- [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
