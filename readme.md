@@ -148,6 +148,8 @@
 - [Reverse level ordeer](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
 - [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [Invert binary tree✅](https://leetcode.com/problems/invert-binary-tree/description/)
+- [diameter of binary tree✅](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [Preorder✅](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Postorder✅](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
