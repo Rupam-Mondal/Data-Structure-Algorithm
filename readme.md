@@ -148,12 +148,16 @@
 - [Reverse level ordeer](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 - [Cousins in a BT](https://leetcode.com/problems/cousins-in-binary-tree/)
 - [ZigZag level order](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [Balence binary tree✅](https://leetcode.com/problems/balanced-binary-tree/)
 - [Invert binary tree✅](https://leetcode.com/problems/invert-binary-tree/description/)
 - [diameter of binary tree✅](https://leetcode.com/problems/diameter-of-binary-tree/)
 - [Right view of a BT](https://leetcode.com/problems/binary-tree-right-side-view/)
 - [Preorder✅](https://leetcode.com/problems/binary-tree-preorder-traversal/)
 - [Postorder✅](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)
 - [Inorder✅](https://leetcode.com/problems/binary-tree-inorder-traversal/description/)
+- [House robber 3](https://leetcode.com/problems/house-robber-iii/description/)
+- [serialize-and-deserialize](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
+- [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
