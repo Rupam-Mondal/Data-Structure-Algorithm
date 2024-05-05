@@ -161,6 +161,10 @@
 - [House robber 3](https://leetcode.com/problems/house-robber-iii/description/)
 - [serialize-and-deserialize](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/)
 - [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/description/)
+- [Duplicate subtree](https://leetcode.com/problems/find-duplicate-subtrees/description/)
+- [Max width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- [Merge two binary tree](https://leetcode.com/problems/merge-two-binary-trees/description/)
+- [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
