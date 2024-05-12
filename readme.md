@@ -165,6 +165,7 @@
 - [Max width of binary tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
 - [Merge two binary tree](https://leetcode.com/problems/merge-two-binary-trees/description/)
 - [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
+- [Check a flip or not✅](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 - [root to leaf path✅](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)
 # CP Practice problems:
 ## Searching
