@@ -167,6 +167,12 @@
 - [Construct string from binary tree](https://leetcode.com/problems/construct-string-from-binary-tree/description/)
 - [Check a flip or not✅](https://leetcode.com/problems/flip-equivalent-binary-trees/)
 - [root to leaf path✅](https://www.geeksforgeeks.org/problems/root-to-leaf-paths/1)
+
+
+## Binary search Tree
+- [Insert in BST✅](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1255903786/)
+
+
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
