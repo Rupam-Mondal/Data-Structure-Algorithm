@@ -170,7 +170,16 @@
 
 
 ## Binary search Tree
-- [Insert in BST✅](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1255903786/)
+- [Insert in BST✅](https://leetcode.com/problems/insert-into-a-binary-search-tree/submissions/1255903786/)- [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
+- [BST To greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Verify BST from preorder LINTCODE](https://www.lintcode.com/problem/1307/?fromId=349&_from=collection)
+    - [Verify BST from preorder Leetcode](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
+- [Delete a node in bst](https://leetcode.com/problems/delete-node-in-a-bst/)
+- [BST To greater sum tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/)
+- [Validate BST](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Verify BST from preorder LINTCODE](https://www.lintcode.com/problem/1307/?fromId=349&_from=collection)
+    - [Verify BST from preorder Leetcode](https://leetcode.com/problems/verify-preorder-sequence-in-binary-search-tree/)
 
 
 # CP Practice problems:
