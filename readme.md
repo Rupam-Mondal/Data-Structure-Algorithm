@@ -202,6 +202,22 @@
 - [Insert in avl]()
 - [Delete a node in avl]()
 
+## Heap
+- [Upheapify]()
+- [Downheappify]()
+- [Insert in a heap]()
+- [Remove from a heap]()
+- [Generic heap]()
+- [Kth largest elements](https://leetcode.com/problems/kth-largest-element-in-an-array/)
+- [Heapsort]()
+- [K closes point to origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+- [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/)
+- [Kth smallest prime fraction](https://leetcode.com/problems/k-th-smallest-prime-fraction/)
+- [Find data in a stream](https://leetcode.com/problems/find-median-from-data-stream/)
+- [Build heap from array in less than nlogn](https://www.naukri.com/code360/problems/build-min-heap_1171167)
+- [Reorganize string](https://leetcode.com/problems/reorganize-string/)
+- [Min cost to hike k workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
+
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
