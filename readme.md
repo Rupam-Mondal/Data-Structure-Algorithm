@@ -218,6 +218,14 @@
 - [Reorganize string](https://leetcode.com/problems/reorganize-string/)
 - [Min cost to hike k workers](https://leetcode.com/problems/minimum-cost-to-hire-k-workers/description/)
 
+## Graph
+- [Adjacency list]()
+- [Adjacency matrix]()
+- [Check if path exist DFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [Check if path exist BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
+- [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+- [Number of island✅](https://leetcode.com/problems/number-of-islands/)
+
 # CP Practice problems:
 ## Searching
 - [Aggressive cows](https://www.spoj.com/problems/AGGRCOW/)
