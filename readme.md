@@ -225,6 +225,8 @@
 - [Check if path exist BFS](https://leetcode.com/problems/find-if-path-exists-in-graph/description/)
 - [All paths from source to target](https://leetcode.com/problems/all-paths-from-source-to-target/)
 - [Number of island✅](https://leetcode.com/problems/number-of-islands/)
+- [Course Schedule](https://leetcode.com/problems/course-schedule/description/)
+- [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/description/)
 
 # CP Practice problems:
 ## Searching
